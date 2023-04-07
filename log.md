@@ -1,30 +1,23 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: Wednesday April 5, 2023
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Today I learned about the basics of HTML and CSS from the free online course by @freeCodeCamp, then completed a simple NFT Card Component project from @frontendmentor
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Manual CSS is Hard
 
-**Link to work:** [Calculator App](http://www.example.com)
+### Day 2: Thursday April 6, 2023 
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Today's Progress**: Today, i finish building Cat Photo App, Cafe Menu, and Set Colored Markers on Responsive Web Design Course by @freeCodeCamp
+ 
+**Thoughts:** I really need to find something to get more focus at coding, really get boring easily
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Day 3: Friday April 7, 2023
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: Today i finished building registration form in @freeCodeCamp Responsive Web Design Course, and also finished huddle landing page challenge by @frontendmentor
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Thoughts:** CSS Media Query is hard, and also responsive design is really annoying
 
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
+**Link(s) to work Example**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
