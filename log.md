@@ -18,6 +18,12 @@
 
 **Thoughts:** CSS Media Query is hard, and also responsive design is really annoying
 
+### Day 4: Saturday April 8, 2023
+
+**Today's Progress**: Today i finished building Survey Form for Certification Project by FreeCodeCamp
+
+**Thoughts:** Frontend is hard, i need to be more exited
+
 **Link(s) to work Example**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
